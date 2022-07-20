@@ -1,0 +1,14 @@
+D:\VS_code\C#\Chat_LongLe\ChatClient\bin\Debug\ChatClient.exe.config
+D:\VS_code\C#\Chat_LongLe\ChatClient\bin\Debug\ChatClient.exe
+D:\VS_code\C#\Chat_LongLe\ChatClient\bin\Debug\ChatClient.pdb
+D:\VS_code\C#\Chat_LongLe\ChatClient\bin\Debug\Chat_LongLe.exe
+D:\VS_code\C#\Chat_LongLe\ChatClient\bin\Debug\Chat_LongLe.pdb
+D:\VS_code\C#\Chat_LongLe\ChatClient\bin\Debug\Chat_LongLe.exe.config
+D:\VS_code\C#\Chat_LongLe\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+D:\VS_code\C#\Chat_LongLe\ChatClient\obj\Debug\ChatClient.FormClient.resources
+D:\VS_code\C#\Chat_LongLe\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\VS_code\C#\Chat_LongLe\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+D:\VS_code\C#\Chat_LongLe\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\VS_code\C#\Chat_LongLe\ChatClient\obj\Debug\ChatClient.csproj.CopyComplete
+D:\VS_code\C#\Chat_LongLe\ChatClient\obj\Debug\ChatClient.exe
+D:\VS_code\C#\Chat_LongLe\ChatClient\obj\Debug\ChatClient.pdb

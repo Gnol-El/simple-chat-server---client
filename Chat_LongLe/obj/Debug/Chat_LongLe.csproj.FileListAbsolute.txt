@@ -1,0 +1,10 @@
+D:\VS_code\C#\Chat_LongLe\Chat_LongLe\bin\Debug\Chat_LongLe.exe.config
+D:\VS_code\C#\Chat_LongLe\Chat_LongLe\bin\Debug\Chat_LongLe.exe
+D:\VS_code\C#\Chat_LongLe\Chat_LongLe\bin\Debug\Chat_LongLe.pdb
+D:\VS_code\C#\Chat_LongLe\Chat_LongLe\obj\Debug\Chat_LongLe.FormServer.resources
+D:\VS_code\C#\Chat_LongLe\Chat_LongLe\obj\Debug\Chat_LongLe.Properties.Resources.resources
+D:\VS_code\C#\Chat_LongLe\Chat_LongLe\obj\Debug\Chat_LongLe.csproj.GenerateResource.cache
+D:\VS_code\C#\Chat_LongLe\Chat_LongLe\obj\Debug\Chat_LongLe.csproj.CoreCompileInputs.cache
+D:\VS_code\C#\Chat_LongLe\Chat_LongLe\obj\Debug\Chat_LongLe.exe
+D:\VS_code\C#\Chat_LongLe\Chat_LongLe\obj\Debug\Chat_LongLe.pdb
+D:\VS_code\C#\Chat_LongLe\Chat_LongLe\obj\Debug\Chat_LongLe.csprojAssemblyReference.cache
